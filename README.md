@@ -9,6 +9,10 @@ This provides a functionality that many users have gotten used to since the soci
 
 It is available on the MyBB Mods site: http://mods.mybb.com/view/user-tagging
 
+Installation
+------------
+To install this plugin, simply upload the hit_counter.php file in the included folders to the same path in your MyBB installation.
+
 Settings
 --------
 
